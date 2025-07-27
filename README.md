@@ -63,7 +63,7 @@ Beberapa tabel penting pada database:
 5. **Import database**
    Gunakan aplikasi seperti **phpMyAdmin** atau jalankan:
    ```bash
-   mysql -u root -p laravel < db.sql
+   mysql -u root -p laravel < laravel.sql
    ```
 
 6. **Jalankan aplikasi**
